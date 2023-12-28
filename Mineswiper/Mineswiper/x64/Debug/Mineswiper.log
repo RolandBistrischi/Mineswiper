@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\partitia d\visual studio\visual studio proiecte\proiecte vs2017\proiect acasa\mineswiper\mineswiper\joc.h(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\partitia d\visual studio\visual studio proiecte\proiecte vs2017\proiect acasa\mineswiper\mineswiper\joc.h(283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\partitia d\visual studio\visual studio proiecte\proiecte vs2017\proiect acasa\mineswiper\mineswiper\meniu.h(26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\partitia d\visual studio\visual studio proiecte\proiecte vs2017\proiect acasa\mineswiper\mineswiper\meniu.h(69): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\partitia d\visual studio\visual studio proiecte\proiecte vs2017\proiect acasa\mineswiper\mineswiper\meniu.h(356): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\partitia d\visual studio\visual studio proiecte\proiecte vs2017\proiect acasa\mineswiper\mineswiper\main.cpp(165): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mineswiper.vcxproj -> C:\partitia d\Visual Studio\visual studio proiecte\proiecte vs2017\proiect acasa\Mineswiper\x64\Debug\Mineswiper.exe
